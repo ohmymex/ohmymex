@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://jad.li">
+  <a href="https://ohmymex.sh/">
     <img alt="title" src="https://raw.githubusercontent.com/ohmymex/ohmymex/refs/heads/master/mex.svg" />
   </a>
 </p>
+
 ---
 - 🔭 I’m currently working on "Myself"
 - 🌱 I’m currently learning "Prabogo Framework"
