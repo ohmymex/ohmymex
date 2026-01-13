@@ -5,9 +5,11 @@
 </p>
 
 ---
-- 🔭 I’m currently working on "Myself"
-- 🌱 I’m currently learning "Prabogo Framework"
-- 💬 Ask me about "D1c.... heheh"
-- 📫 How to reach me: "Idk, ask chatgpt"
-- 😄 Pronouns: "im not the mental illness sh1t
-- ⚡ Fun fact: "Im handsome"
+
+## Favorite Stacks
+
+[![](https://skillicons.dev/icons?i=ts,py,go,nodejs,bun,elysia,vue,nuxt,tailwind,pnpm,sqlite,postgres)](https://skillicons.dev)
+
+## ✉️ Reach me
+- [Telegram](https://t.me/ohmymex)
+- [ohmymex.x@gmail.com](mailto:ohmymex.x@gmail.com)
