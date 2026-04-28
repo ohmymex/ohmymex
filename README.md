@@ -12,4 +12,8 @@
 
 ## ✉️ Reach me
 - [Telegram](https://t.me/ohmymex)
-- [ohmymex.x@gmail.com](mailto:ohmymex.x@gmail.com)
+- [ohmymex.x@gmail.com](mailto:numex@segfault.net)
+
+## Community
+- [THC](https://t.me/thcorg)
+- [HALTMAN](https://t.me/haltman_group)
