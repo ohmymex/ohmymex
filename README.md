@@ -12,7 +12,7 @@
 
 ## ✉️ Reach me
 - [Telegram](https://t.me/ohmymex)
-- [ohmymex.x@gmail.com](mailto:numex@segfault.net)
+- [E/G-Mail](mailto:numex@segfault.net)
 
 ## Community
 - [THC](https://t.me/thcorg)
